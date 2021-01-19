@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">tpNum2</string>
+    <string name="fiche_de_choix">Fiche de choix master</string>
+    <string name="charger_image">Charger Image</string>
+    <string name="si">SI</string>
+    <string name="isil">ISIL</string>
+    <string name="moyenne">Moyenne:</string>
+    <string name="m">--;--</string>
+    <string name="votre_choix">Votre Choix Master</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="nomPre"><![CDATA[Nom & Prénom]]></string>
+    <string name="exercice_3">Exercice 3</string>
+    <string name="numTel">Numéro de Téléphone</string>
+    <string name="email">Email</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="nom">Nom:</string>
+    <string name="sp_cialit">Spécialité:</string>
+    <string name="exercice_2">Exercice 2</string>
+
+    <string-array name="Spcial">
+        <item> Reséau et multimédia </item>
+        <item> téchnologie de l\'information et de la communication </item>
+        <item> Fondements et ingénierie de l\’information et de l\’image </item>
+        <item> Réseaux et systèmes distribués </item>
+        <item> Génie logiciel </item>
+        <item> Informatique fondamentale et intelligence artificielle </item>
+        <item> Ingénierie des données et technologie Web </item>
+    </string-array>
+</resources>
